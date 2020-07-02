@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo "envconsul"
+exit 0
