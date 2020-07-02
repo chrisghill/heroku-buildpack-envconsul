@@ -6,4 +6,4 @@ echo "-----> Extracting..."
 unzip envconsul.zip
 rm envconsul.zip
 mv envconsul $1
-echo "-----> envconsul installed!
+echo "-----> envconsul installed!"
